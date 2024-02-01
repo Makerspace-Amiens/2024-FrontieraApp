@@ -6,13 +6,13 @@ title: Accueil
 
 # Bienvenue sur notre documentation de l'app Frontiera
 
-Bienvenue dans la documentation du projet XYZ. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet Frontiera. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+Frontiera, c'est un jeu de plateau où tu étends ton territoire en relevant des défis. Les autres joueurs vont essayer de t'en empêcher, affronte-les pour sortir vainqueur avec le plus grand territoire. 
 
 ## Poster
 
