@@ -72,7 +72,7 @@ Frontiera est un jeu de plateau virtuel de 2 à 4 joueurs.
     * *Les défis* : lorsqu'un joueur convoite des cases territoire neutres (cf *cases territoire*, *aperçu*), il relève un défi. Il s'agit de mini-jeux solos, pouvant prendre diverses formes : questions-réponses, motifs à reproduire, énigmes à résoudre... ils sont variés et intéractifs !
 
     * *Les duels* : lorsqu'un joueur convoite une zone occupée (cf *cases territoire*, *aperçu*), **adjacente à son territoire**, il peut provoquer le joueur adverse en duel. Les deux joueurs reçoivent alors une carte duel (cf *cartes duel*, *aperçu*). Le joueur gagnant remporte le nombre de cases territoire indiqué sur la carte duel, provenant du territoire du perdant. 
- Les duels sont des mini-jeux multijoueurs variés : exemples à ajouter.
+ Les duels sont des mini-jeux multijoueurs variés : courses, labyrinthe, morpion...
 
     * *Fin de la partie* : la partie s'achève dans deux cas.
         1. Lorsque le temps est écoulé, le dernier tour se termine et le nombre de cases territoire de chaque joueur est compté pour déterminer le gagnant.
