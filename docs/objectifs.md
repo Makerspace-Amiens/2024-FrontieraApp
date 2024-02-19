@@ -13,15 +13,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
 
 ## Objectifs du Projet
-
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+Ce projet vise à créer un jeu de plateau multijoueur. Développée en parallèle de la [version physique](https://github.com/Makerspace-Amiens/2024-FrontieraBoardGame), c'est une application web que nous proposons, à utiliser sur le même PC. Nous visons à proposer un jeu intéractif et divertissant.
 
 # Existant
+## Inspiartion du jeu
+* Frontiera est, à la base, inspiré de Cartes et Territoires, un mode de jeu issu de Splatoon 3, consistant à étendre sonterritoire en disposant des motifs sur un plateau. Voici un [projet fan](https://github.com/AndrioCelos/TableturfBattleApp/tree/main) ayant reproduit ce mode en application web. 
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+* Les mini-jeux s'inspirent, eux, des jeux flash. //Poster ici des exemples de jeux qui ressemblent à nos mini jeux ?
 
 # Cahier des Charges
 Le jeu devra contenir les elements suivants :
+
 ## Menu du jeu
 Le jeu devra proposer un menu permettant de selectionner : 
 * le nombre de joueurs dela partie (entre 2 et 4)
