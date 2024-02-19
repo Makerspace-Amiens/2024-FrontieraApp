@@ -21,6 +21,27 @@ Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. 
 Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
 
 # Cahier des Charges
+Le jeu devra contenir les elements suivants :
+## Menu du jeu
+Le jeu devra proposer un menu permettant de selectionner : 
+* le nombre de joueurs dela partie (entre 2 et 4)
+* les informations associées à chaque joueur (couleur, pseudonyme)
+
+## Plateau
+* Chronomètre de la partie (durée à renseigner)
+* Affichage du plateau et des cases
+* Etat des cases (couleurs)
+* Choix entre defi et duel, le jeu devra determiner si le choix est possible ou non et agire en conséquence
+* Possibilité de choisir les cases convoitées (le jeu propose les différentes possibilités)
+* Fin de partie (gagnant, scores)
+  
+
+## Mini jeu
+* Differencier defi et duel
+* Tirer "au hasard" les differents defis et duels
+* Ecran de mini jeu
+* Gestion des contrôles solo et multijoueur
+* Elements graphiques
 
 ## Régles du jeu
 Frontiera est un jeu de plateau virtuel de 2 à 4 joueurs.
