@@ -25,7 +25,7 @@ Cependant nous avons fini par écarter cette possibilité en raison de notre man
   L'interface de Frontiera est réalisé sur Unity.  
 Unity est un moteur de jeu multiplatforme qui propose une interface utilisateur facile d'accès. Il permet d'écrire du code en C++ et C# et fonctionne sous Microsoft Windows, macOS, Linux, Android et iOS.  
 L'un des points forts de Unity, est qu'il permet d'importer de nombreux formats 3D et 2D.
-  En combinant l'utilisation de sprites et d'Unity, on crée un jeu dynamique et interactif. Les sprites sont réalisés grâce au logiciel de dessin Krita.   
+  En combinant l'utilisation de sprites et d'Unity, on crée un jeu dynamique et interactif. Les sprites sont réalisés grâce au logiciel de dessin Pixlr.   
 
 * *Jeu et défis/duels* :
 
