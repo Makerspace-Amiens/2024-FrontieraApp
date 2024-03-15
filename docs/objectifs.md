@@ -16,7 +16,7 @@ Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, eu
 Ce projet vise à créer un jeu de plateau multijoueur. Développée en parallèle de la [version physique](https://github.com/Makerspace-Amiens/2024-FrontieraBoardGame), c'est une application web que nous proposons, à utiliser sur le même PC. Nous visons à proposer un jeu intéractif et divertissant.
 
 # Existant
-## Inspiartion du jeu
+## Inspiration du jeu
 * Frontiera est, à la base, inspiré de Cartes et Territoires, un mode de jeu issu de Splatoon 3, consistant à étendre sonterritoire en disposant des motifs sur un plateau. Voici un [projet fan](https://github.com/AndrioCelos/TableturfBattleApp/tree/main) ayant reproduit ce mode en application web. 
 
 * Les mini-jeux s'inspirent, eux, des jeux flash. //Poster ici des exemples de jeux qui ressemblent à nos mini jeux ?
