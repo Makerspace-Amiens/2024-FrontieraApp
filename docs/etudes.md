@@ -9,7 +9,7 @@ title: Études et choix techniques
 ## Choix des logiciels
 Lors du commencement de notre projet, plusieurs choix s'offraient à nous quant à la réalisation de l'interface graphique de Frontiera, notamment :
 
-* **Créer le jeu entièrement en languages de code (HTML, CSS, JavaScript, etc)**  
+* **Créer le jeu entièrement en langages de code (HTML, CSS, JavaScript, etc)**  
 La première option à laquelle nous avons pensé a été la réalisation de l'interface en utilisant uniquement les différents langages de programmation destinés au "Front-End" (Ce que voit l'utilisateur).
 Cependant nous avons fini par écarter cette possibilité en raison de notre manque d'expérience dans ces langages. Souhaitant obtenir un résultat optimal, nous préférions utiliser des méthodes que nous maîtrisions réellement.
 
