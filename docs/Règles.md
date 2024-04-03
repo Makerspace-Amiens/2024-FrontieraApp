@@ -3,6 +3,8 @@ layout: default
 nav_order: 3
 title: Règles du jeu
 ---
+<object data="" width="1000" height="1000" type='application/pdf'></object>
+
 ## Régles du jeu
 Frontiera est un jeu de plateau virtuel de 2 à 4 joueurs.
 * *Principe du jeu* : à chaque tour, un joueur reçoit un défi/duel. Il décide de mettre en jeu un nombre de cases territoire limité afin d'en gagner le double s'il réussit de défi/duel. S'il échoue, il perd les cases en jeu. Après le décompte des cases, c'est la fin du tour.
