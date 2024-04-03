@@ -6,14 +6,14 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Ici, vous trouverez les détails des objectifs du projet.
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+ Frontiera est réalisé dans le cadre de notre 3e année, mais il s'agit d'un projet personnel que nous avons conceptualisé et proposé. Il s'inspire de divers matériaux et productions extérieures que nous listons ci-dessous.  
 
 ## Objectifs du Projet
-Ce projet vise à créer un jeu de plateau multijoueur. Développée en parallèle de la [version physique](https://github.com/Makerspace-Amiens/2024-FrontieraBoardGame), c'est une application web que nous proposons, à utiliser sur le même PC. Nous visons à proposer un jeu intéractif et divertissant.
+Ce projet vise à créer un jeu de plateau multijoueur. Développée en parallèle de la [version physique](https://github.com/Makerspace-Amiens/2024-FrontieraBoardGame), c'est une application que nous proposons, qui fonctionne sur un seul PC. Nous voulons proposer un jeu intéractif et divertissant.
 
 # Existant
 ## Inspiration du jeu
@@ -37,7 +37,6 @@ Le jeu devra proposer un menu permettant de selectionner :
 * Possibilité de choisir les cases convoitées (le jeu propose les différentes possibilités)
 * Fin de partie (gagnant, scores)
   
-
 ## Mini jeu
 * Differencier defi et duel
 * Tirer "au hasard" les differents defis et duels
