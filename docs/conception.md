@@ -40,8 +40,19 @@ Avant d'entamer la programmation de notre jeu, nous avons d'abord procéder à u
 
 
 * *Programmation du plateau* :
+
+  Les premiers prototypes du plateau ont eté réalisés grâce au logiciel Processing. Il nous a permis d'avoir un premier aperçu de notre plateau avec les différentes cases. Grâce à ça, nous avons pû trouver la meilleure manière de gérer les coordonnées de nos différentes cases.  
+
+  ![Prototype plateau couleur](https://github.com/Makerspace-Amiens/2024-FrontieraApp/assets/158062961/05750076-c588-41d7-b03f-be6aeb16d0fc)
+
   
 * *Programmation du Menu Démarrer* :
+
+  Le premier prototype du menu à également été réaliser sur Processing. Il reprend les éléments importants à savoir un bouton "Nouvelle partie", des options ainsi qu'un bouton quitter.
+  
+  
+  ![Prototype menu](https://github.com/Makerspace-Amiens/2024-FrontieraApp/assets/158062961/a7b8a378-d617-4961-86e3-6cc99f58d3c4)
+
 
   
 * *Programmation des éléments indépendants* :
