@@ -12,7 +12,8 @@ L'interface graphique de Frontiera est conçue à l'aide de sprites déssinées 
 Le pixelart est une forme d'art numérique qui va nous permettre de créer une forme à partir de pixels. Afin de réaliser ces sprites il existe de nombreux logiciels.
 * **Création des sprites**
 
-  Pour la réalisation des différentes sprites de jeu, nous avons choisi 
+  Pour la réalisation des différentes sprites de jeu, nous avons choisi le Piskel qui est un logiciel de dessin gratuit et facile d'accès spécifique au pixelart. Les premières sprites de notre jeu sont celles du dé permettant de déterminer le nombre de cases de départ, et les différents états de cases du plateau possible.
+   
 * **Importation sur Unity**
   
 ## Organisation de la programmation
