@@ -27,7 +27,15 @@ l'étape suivant la création des sprites est leur importation sur Unity.
   
   
 ## Organisation de la programmation
-//Décrire brievement ce qui a été fait et comment 
+//Décrire brievement ce qui a été fait et comment  
+
+Avant d'entamer la programmation de notre jeu, nous avons d'abord procéder à une phase de réflexion. Nous avons défini et créer différents organigrammes qui retrace le déroulement du jeu avec une partie complète.  
+
+
+![Organigramme partie](https://github.com/Makerspace-Amiens/2024-FrontieraApp/assets/158062961/6672c83a-fbe2-4252-b250-8953576d86ba)  
+
+
+
 * *Programmation du plateau* :
   
 * *Programmation du Menu Démarrer* :
