@@ -47,13 +47,13 @@ Selon le nombre de joueurs en confrontation, le mode de mini-jeux sera différen
     
     En premier lieu, concernant le Mode Défi, ce dernier est composé de 6 différents mini-jeux dans lequel nous pouvons retrouver :
     
-* *Reproduction d'image* : Ce mini-jeux concernera comme son nom l'indique le reproduction d'image dans lequel
+* *Reproduction d'image* : Ce mini-jeu concernera comme son nom l'indique le reproduction d'image dans lequel
 * *Egnimes* :
-* *7 differences* :
-* *Traduction* :
-* *Où est Charlie ?* :
+* *7 differences* : 2 images/7 différences ; 7 différences seont à trouver selon 2 images avec un nombre illimités de mauvaises réponses
+* *Traduction* : Dans ce mini-jeu, il apparaîtra une succession de phrase dans divers langages(Russe/Japonais/Anglais/Espagnol/Allemand) ; le joueur devra tour par tour traduire l'ensemble des 7 différentes phrases en français.
+* *Où est Charlie ?* : Dois-je le présenter ? Sur une carte, remplie de personnage, le joueur devra retrouver "Charlie" qui adore porter des habits rayés et se cacher !
 
-  En second temps, nous avons les 6 mini-jeux du mode Duel :
+En second temps, nous avons les 6 mini-jeux du mode Duel :
 
 * *Le Labyrinthe* : 1 labyrinthe/2 joueurs/2 clés ; Chaque joueur est disposé à chaque extrémité du labyrinthe, dès le commcement du chrono, les deux joueurs devront arrivé au centre du labyrinthe récupéré leur clé et la rapporter le plus vite possible à son équipe. 
 * *Jeu de logique* : Ce mode de jeu est basé sur les différents jeu (à compléter)
