@@ -4,6 +4,10 @@ nav_order: 3
 title: Objectifs du projet
 ---
 
+| Index | Règles | Conception | Etudes | Mini-jeux | Objectifs |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/index.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/R%C3%A8gles.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/conception.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/etudes.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/mini-jeux.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/objectifs.md)</details> |
+
 # Introduction
 
 Ici, vous trouverez les détails des objectifs du projet.
