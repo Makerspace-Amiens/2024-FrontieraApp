@@ -68,4 +68,13 @@ Avant d'entamer la programmation de notre jeu, nous avons d'abord procéder à u
 
 ![image](https://github.com/Makerspace-Amiens/2024-FrontieraApp/assets/158062961/1c843e64-9268-487c-9faf-5bf29b9951f4)  
 
-Cependant nous avons finalement changer d'approche car nous avons rencontrés des problèmes quant à la gestion des réponses. Nous avons donc opter pour une autre méthode. 
+Cependant nous avons finalement changer d'approche car nous avons rencontrés des problèmes quant à la gestion des réponses. Nous avons donc opter pour une autre méthode.  
+Au lieu de créer un tableau pour stocker les questions et les réponses, nous avons créer une base de données avec celles-ci. Lorsque l'utilisateur clique sur une réponse, le programme récupère ainsi l'index de la question et la réponse. Il vérifie s'il s'agit de la bonne, dans ce cas il affiche un panel avec "Bonne Réponse" et dans le cas contraire il affiche l'autre panel avec "Mauvaise Réponse".   
+Cette méthode était beaucoup plus facile à gérer et nous permettait en plus de rajouter plus simplement d'autres questions si nécessaire. 
+
+ ![image](https://github.com/Makerspace-Amiens/2024-FrontieraApp/assets/158062961/c773be05-b513-4213-bf61-337e5a02ff20)  
+
+ 
+
+ 
+ 
