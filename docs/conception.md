@@ -58,8 +58,14 @@ Avant d'entamer la programmation de notre jeu, nous avons d'abord procéder à u
 * *Programmation des éléments indépendants* :
 
   
-* *Programmation des mini-jeux* :
+* *Programmation des mini-jeux* :  
+  Frontiera possède une variété de mini-jeux qui ont tous nécéssités une approche différente. 
 
 ## Tests 
 //Décrire tous les différents test effectués, les améliorations et les changements en précisant à chaque fois pourquoi
+* *Mini-jeu Questions - Réponses*  
+  Le premier prototype de ce mini-jeu ce présente comme ceci:  
 
+![image](https://github.com/Makerspace-Amiens/2024-FrontieraApp/assets/158062961/1c843e64-9268-487c-9faf-5bf29b9951f4)  
+
+Cependant nous avons finalement changer d'approche car nous avons rencontrés des problèmes quant à la gestion des réponses. Nous avons donc opter pour une autre méthode. 
