@@ -20,9 +20,10 @@ Bienvenue dans la documentation du projet Frontiera. Ce site a pour but de fourn
 
 ## Poster
 
-Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+
+![POSTER-TEMPLATE-PROJET_I3 (1)](https://github.com/Makerspace-Amiens/2024-FrontieraApp/assets/158062961/789684ad-897f-4e37-af0c-b0e6a4704359)
+
 
 ## Vidéo
 
