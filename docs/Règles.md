@@ -45,7 +45,7 @@ Frontiera est un jeu de plateau virtuel de 2 à 4 joueurs.
 
 <details>
 
- <summary>Déroulement de la parie</summary>
+ <summary>Déroulement de la partie</summary>
   
 Une partie dure 10 à 15 minutes, et se déroule en tour par tour.
 
