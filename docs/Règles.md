@@ -4,7 +4,8 @@ nav_order: 3
 title: Règles du jeu
 ---
 ## Régles du jeu
-Sur cette page, vous trouverez en détail les régles du jeu.
+Sur cette page, vous trouverez en détail les régles du jeu.  
+
 Frontiera est un jeu de plateau virtuel de 2 à 4 joueurs.
 
 <details>
