@@ -14,7 +14,7 @@ Bienvenue dans la documentation du projet Frontiera. Ce site a pour but de fourn
 
 * Frontiera, c'est un jeu de plateau où tu étends ton territoire en relevant des défis. Les autres joueurs vont essayer de t'en empêcher, affronte-les pour sortir vainqueur avec le plus grand territoire.
 
-* Nous développons une application web qui permettra de jouer à Frontiera jusqu'à 4 joueurs sur le même écran. La version physique du jeu est en développement [ici](https://github.com/Makerspace-Amiens/2024-FrontieraBoardGame). 
+* Nous développons une application qui permettra de jouer à Frontiera jusqu'à 4 joueurs sur le même écran. La version physique du jeu est en développement [ici](https://github.com/Makerspace-Amiens/2024-FrontieraBoardGame). 
 
 ## Poster
 
@@ -24,7 +24,6 @@ Bienvenue dans la documentation du projet Frontiera. Ce site a pour but de fourn
 
 
 ## Vidéo
-Vidéo de présentation du projet
 
 <video src="images/Video_Promo_Frontiera_Site.mp4" controls title="Title"  style="width: 100%;"></video>
 
