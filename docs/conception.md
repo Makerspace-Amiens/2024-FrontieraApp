@@ -30,7 +30,6 @@ l'étape suivant la création des sprites est leur importation sur Unity.
   
   
 ## Organisation de la programmation
-//Décrire brievement ce qui a été fait et comment  
 
 Avant d'entamer la programmation de notre jeu, nous avons d'abord procéder à une phase de réflexion. Nous avons défini et créer différents organigrammes qui retrace le déroulement du jeu avec une partie complète.  
 
@@ -62,7 +61,7 @@ Avant d'entamer la programmation de notre jeu, nous avons d'abord procéder à u
   Frontiera possède une variété de mini-jeux qui ont tous nécéssités une approche différente. 
 
 ## Tests 
-//Décrire tous les différents test effectués, les améliorations et les changements en précisant à chaque fois pourquoi
+
 * *Mini-jeu Questions - Réponses*  
   Le premier prototype de ce mini-jeu ce présente comme ceci:  
 
