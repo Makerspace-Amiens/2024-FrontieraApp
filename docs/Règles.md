@@ -3,11 +3,8 @@ layout: default
 nav_order: 3
 title: Règles du jeu
 ---
-| Index | Règles | Conception | Etudes | Mini-jeux | Objectifs |
-| --------- | --------- | --------- | --------- | --------- | --------- |
-| <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/index.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/R%C3%A8gles.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/conception.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/etudes.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/mini-jeux.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/objectifs.md)</details> |
-
 ## Régles du jeu
+Sur cette page, vous trouverez en détail les régles du jeu.
 Frontiera est un jeu de plateau virtuel de 2 à 4 joueurs.
 
 <details>
