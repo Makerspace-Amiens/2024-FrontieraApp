@@ -3,9 +3,6 @@ layout: default
 nav_order: 5
 title: Conception et prototypage
 ---
-| Index | Règles | Conception | Etudes | Mini-jeux | Objectifs |
-| --------- | --------- | --------- | --------- | --------- | --------- |
-| <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/index.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/R%C3%A8gles.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/conception.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/etudes.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/mini-jeux.md)</details> | <details><summary></summary>[°](https://github.com/Makerspace-Amiens/2024-FrontieraApp/blob/main/docs/objectifs.md)</details> |
 
 # Conception et prototypage
 Frontiera est un jeu 2D disponible sur nagivateur, et réalisé sous le moteur de jeu Unity.
