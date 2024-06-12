@@ -13,15 +13,19 @@ Selon le nombre de joueurs en confrontation, le mode de mini-jeux sera différen
 
 ### Mode Défi
 <details>
-<summary>X1</summary>
-    Pour un joueur effectuant une conquête d'un territoire n'étant adjacent à aucun autre joueur, après apparition d'un onglet "Défis",
-    le mode de jeu "Défis" se lancera permettant au joueur de choisir le nombre de case à parier (photo à venir), 
-    ainsi que le type de jeu à effectuer, le joueur aura dès lors du lancement du jeu un timing.
+<summary>Comment ça marche ?!</summary>
+
+    Lorsqu'un joueur convoite des cases territoire neutres (cf *cases territoire*, *aperçu*), il relève un défi. Il s'agit de mini-jeux solos, pouvant prendre diverses formes : questions-réponses, motifs à reproduire, énigmes à résoudre... ils sont variés et intéractifs !
+    c'est à dire que lorsqu'un joueur convoite un territoire, un onglet "Défi" apparait
+  
+    Ce mode de jeu permet au joueur de choisir un certain nombre de case à parier (photo à venir), 
+    ainsi que le type de jeu à effectuer.
+    Un chronomètre se laissera dès lorsque le joueur aura accepter son défi !
 
     
-Cas ou le joueur gagne : Ce dernier gagne alors la mise quui lui a été édité puis reprend le jeu.
+Dans le cas ou le joueur gagne : Ce dernier gagne alors la mise qu'il s'est assigné puis reprend le jeu.
         
-Cas ou le joueur perd  : Il se verra retirer le nombre de case misée pendant la pré-disposition du défis, 
+Puis dans le cas ou le joueur perd  : Il se verra retirer le nombre de case misées pendant la pré-disposition du défis, 
         puis peut reprendre à son tour le jeu. 
 </details>
    
