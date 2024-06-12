@@ -4,7 +4,8 @@ nav_order: 3
 title: Mini-jeux
 ---
 # Espace mini-jeux !
-**Bonjour à tous ! Dans cette rubrique nous allons détailler l'ensemble des mini-jeux qui seront disponible sur notre jeux mobile.**
+**Bonjour à tous ! 
+Dans cette rubrique nous allons détailler l'ensemble des mini-jeux qui seront disponible sur notre jeux mobile.**
 
 ### Comment ça marche ?
 Les mini-jeux apparaîtront lors d'une confrontation entre un ou deux joueurs afin de conquérir un territoire voulu.
