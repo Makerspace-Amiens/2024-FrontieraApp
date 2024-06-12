@@ -15,7 +15,9 @@ Selon le nombre de joueurs en confrontation, le mode de mini-jeux sera différen
 <details>
 <summary>Comment ça marche ?!</summary>
 
-    Lorsqu'un joueur convoite des cases territoire neutres (cf *cases territoire*, *aperçu*), il relève un défi. Il s'agit de mini-jeux solos, pouvant prendre diverses formes : questions-réponses, motifs à reproduire, énigmes à résoudre... ils sont variés et intéractifs !
+    Lorsqu'un joueur convoite des cases territoire neutres (cf *cases territoire*, *aperçu*), il relève un défi. 
+    Il s'agit de mini-jeux solos, pouvant prendre diverses formes : questions-réponses, motifs à reproduire,
+    énigmes à résoudre... ils sont variés et intéractifs !
     c'est à dire que lorsqu'un joueur convoite un territoire, un onglet "Défi" apparait
   
     Ce mode de jeu permet au joueur de choisir un certain nombre de case à parier (photo à venir), 
