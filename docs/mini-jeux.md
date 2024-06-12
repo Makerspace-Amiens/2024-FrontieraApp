@@ -81,7 +81,15 @@ En premier lieu, concernant le Mode Défi, ce dernier est composé de 6 différe
 En second temps, nous avons les 6 mini-jeux du mode Duel !
 
 
-* *Le Labyrinthe* : 1 labyrinthe/2 joueurs/2 clés ; Chaque joueur est disposé à chaque extrémité du labyrinthe, dès le commcement du chrono, les deux joueurs devront arriver au centre du labyrinthe récupéré leur clé et la rapporter le plus vite possible à son équipe. 
+* *Le Labyrinthe* : 1 labyrinthe/2 joueurs/2 clés ; Chaque joueur est disposé à chaque extrémité du labyrinthe, dès le commcement du chrono, les deux joueurs devront arriver au centre du labyrinthe récupéré leur clé et la rapporter le plus vite possible à son équipe.
+
+  <img width="714" alt="image" src="https://github.com/Makerspace-Amiens/2024-FrontieraApp/assets/154310087/6542170a-9ab5-4900-a8e5-17136a3c9efe">
+  
+Voici le personnage qu'incarnera le joueur !
+ 
+  <img width="390" alt="image" src="https://github.com/Makerspace-Amiens/2024-FrontieraApp/assets/154310087/c37370ff-bf08-42fa-a108-4c57bcb3c798">
+
+
 
 * *Jeu de logique* : Ce mode de jeu correspond à un ensemble d'images (ex : un cube sous une forme spécifique ou
   une série de nombres) avec une case vide ; 4 choix seront disponibles pour une seule réponse.
