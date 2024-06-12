@@ -30,6 +30,9 @@ Dans le cas ou le joueur gagne : Ce dernier gagne alors la mise qu'il s'est assi
 Puis dans le cas ou le joueur perd  : Il se verra retirer le nombre de case misées pendant la pré-disposition du défis, 
         puis peut reprendre à son tour le jeu. 
 </details>
+
+
+
    
         
 ### Mode Duel
@@ -86,5 +89,15 @@ En second temps, nous avons les 6 mini-jeux du mode Duel :
 <summary>Description Type de mini-jeux</summary>
   Dans cette partie, nous allons détailler les différents types de mini-jeux présent pour les deux modes.
 </details>
+
+#### XXX
+1. *Défi ou Duel ?*
+       
+       Le joueur actif indique, dans le cas où c'est possible, s'il souhaite provoquer un joueur en duel (cf *duel*, *déroulement de la partie*). Dans ce cas, il reçoit une carte duel (cf *cartes duel*, *aperçu*).
+
+
+     Autrement, le joueur actif tire une carte défi (cf *cartes défi*, *aperçu*).
+
+     Lorsqu'il ne reste plus de territoire neutre, le jeu propose directement au joueur actif un duel.
 
     
