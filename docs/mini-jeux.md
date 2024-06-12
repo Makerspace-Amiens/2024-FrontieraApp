@@ -15,20 +15,21 @@ Selon le nombre de joueurs en confrontation, le mode de mini-jeux sera différen
 <details>
 <summary>Comment ça marche ?!</summary>
 
-    Lorsqu'un joueur convoite des cases territoire neutres (cf *cases territoire*, *aperçu*), il relève un défi. 
-    Il s'agit de mini-jeux solos, pouvant prendre diverses formes : questions-réponses, motifs à reproduire,
-    énigmes à résoudre... ils sont variés et intéractifs !
-    c'est à dire que lorsqu'un joueur convoite un territoire, un onglet "Défi" apparait
+Lorsqu'un joueur convoite des cases territoire neutres (cf *cases territoire*, *aperçu*), il relève un défi. 
+
+Il s'agit de mini-jeux solos, pouvant prendre diverses formes : questions-réponses, motifs à reproduire,
+énigmes à résoudre... ils sont variés et intéractifs !
+c'est à dire que lorsqu'un joueur convoite un territoire, un onglet "Défi" apparait
   
-    Ce mode de jeu permet au joueur de choisir un certain nombre de case à parier (photo à venir), 
-    ainsi que le type de jeu à effectuer.
-    Un chronomètre se laissera dès lorsque le joueur aura accepter son défi !
+Ce mode de jeu permet au joueur de choisir un certain nombre de case à parier (photo à venir), 
+ainsi que le type de jeu à effectuer.
+Un chronomètre se laissera dès lorsque le joueur aura accepter son défi !
 
     
 Dans le cas ou le joueur gagne : Ce dernier gagne alors la mise qu'il s'est assigné puis reprend le jeu.
         
 Puis dans le cas ou le joueur perd  : Il se verra retirer le nombre de case misées pendant la pré-disposition du défis, 
-        puis peut reprendre à son tour le jeu. 
+puis peut reprendre à son tour le jeu. 
 </details>
 
 
@@ -37,18 +38,24 @@ Puis dans le cas ou le joueur perd  : Il se verra retirer le nombre de case mis�
         
 ### Mode Duel
 <details>
-<summary>X2</summary>
-    Concernant la confrontation entre deux joueur, ce dernier mode de jeu se lancera lorsqu'un joueur (appelé actif)
-    décide de conquérir un certain nombre de case qui dans ce cas est adjacent à un ou plusieurs autres joueurs (eux appelés passifs), 
-    le joueur passif verra apparaître alors un onglet "Duels", en cliquant dessus il verra apparaître une page dans laquelle 
-    il pourra choisir à la fois le nombre de case à parier mais aussi quel joueur à affronter dans le cas ou il y aurait +>2joueurs.
+<summary>Comment les joueurs s'affrontent ?</summary>
+
+Ce n'est que lorsqu'un joueur convoite une zone occupée (cf *cases territoire*, *aperçu*), adjacente à son territoire, il peut provoquer le joueur adverse en duel. Les deux joueurs reçoivent alors une carte duel (cf *cartes duel*, *aperçu*).
+Ce dernier mode de jeu se lancera lorsqu'un joueur (appelé actif)
+décide de conquérir un certain nombre de case qui dans ce cas est adjacent à un ou plusieurs autres joueurs (eux appelés passifs), 
+le joueur passif verra apparaître alors un onglet "Duels", en cliquant dessus il verra apparaître une page dans laquelle 
+il pourra choisir à la fois le nombre de case à parier mais aussi quel joueur à affronter dans le cas ou il y aurait +>2joueurs.
 
        
 Cas ou le joueur actif gagne : Il (re)gagne la mise qu'il avait mit ainsi que la mise prévu, le joueur passif, lui, 
-        ne perd pas ses cases misés mais perds le nombre de case misé par le joueur adverse. 
+ne perd pas ses cases misés mais perds le nombre de case misé par le joueur adverse. 
         
 Cas ou le joueur perd  : Il se verra retirer le nombre de case misée pendant la pré-disposition du défis, 
-        puis peut reprendre à son tour le jeu.
+puis peut reprendre à son tour le jeu.
+
+Le joueur gagnant remporte le nombre de cases territoire indiqué sur la carte duel, provenant du territoire du perdant. 
+
+
 </details>
     
 ### Type de mini-jeux
@@ -90,14 +97,6 @@ En second temps, nous avons les 6 mini-jeux du mode Duel :
   Dans cette partie, nous allons détailler les différents types de mini-jeux présent pour les deux modes.
 </details>
 
-#### XXX
-1. *Défi ou Duel ?*
-       
-       Le joueur actif indique, dans le cas où c'est possible, s'il souhaite provoquer un joueur en duel (cf *duel*, *déroulement de la partie*). Dans ce cas, il reçoit une carte duel (cf *cartes duel*, *aperçu*).
 
-
-     Autrement, le joueur actif tire une carte défi (cf *cartes défi*, *aperçu*).
-
-     Lorsqu'il ne reste plus de territoire neutre, le jeu propose directement au joueur actif un duel.
 
     
