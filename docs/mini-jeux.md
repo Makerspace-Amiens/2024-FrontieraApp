@@ -62,34 +62,41 @@ Le joueur gagnant remporte le nombre de cases territoire indiqué sur la carte d
 
 <details>
 <summary>Description de l'ensemble des mini-jeux</summary>
-  Dans cette partie, nous allons détailler les différents  mini-jeux présent pour les deux modes.
+  Dans cette partie, nous allons détailler les différents mini-jeux prévus dans les deux modes.
     
 En premier lieu, concernant le Mode Défi, ce dernier est composé de 6 différents mini-jeux dans lequel nous pouvons retrouver :
     
-* *Reproduction d'image* : Ce mini-jeu concernera comme son nom l'indique le reproduction d'image dans lequel
+* *Reproduction d'image* : Une image, une planche à dessin, ce mini-jeu permettra au joueur de tester ses qualités de dessinateur !
 
-* *Egnimes* :
+* *Egnimes* : 7 Egnimes, 3 minutes, le joueur devra trouver les réponses afin de pouvoir rester en jeu !
 
-* *7 differences* : 2 images/7 différences ; 7 différences seont à trouver selon 2 images avec un nombre illimités de mauvaises réponses
+* *7 differences* : 2 images | 7 différences ; 7 différences seront à trouver selon 2 images avec un nombre illimités de mauvaises réponses.
 
 * *Traduction* : Dans ce mini-jeu, il apparaîtra une succession de phrase dans divers langages(Russe/Japonais/Anglais/Espagnol/Allemand) ; le joueur devra tour par tour traduire l'ensemble des 7 différentes phrases en français.
 
 * *Où est Charlie ?* : Dois-je le présenter ? Sur une carte, remplie de personnage, le joueur devra retrouver "Charlie" qui adore porter des habits rayés et se cacher !
 
-En second temps, nous avons les 6 mini-jeux du mode Duel :
+*  *Morpion* : Une quadrillage, un joueur face à une IA ! le premier à gagner et faire un enchaînement remporte la partie !
+
+En second temps, nous avons les 6 mini-jeux du mode Duel !
 
 
-* *Le Labyrinthe* : 1 labyrinthe/2 joueurs/2 clés ; Chaque joueur est disposé à chaque extrémité du labyrinthe, dès le commcement du chrono, les deux joueurs devront arrivé au centre du labyrinthe récupéré leur clé et la rapporter le plus vite possible à son équipe. 
+* *Le Labyrinthe* : 1 labyrinthe/2 joueurs/2 clés ; Chaque joueur est disposé à chaque extrémité du labyrinthe, dès le commcement du chrono, les deux joueurs devront arriver au centre du labyrinthe récupéré leur clé et la rapporter le plus vite possible à son équipe. 
 
-* *Jeu de logique* : Ce mode de jeu est basé sur les différents jeu (à compléter)
+* *Jeu de logique* : Ce mode de jeu correspond à un ensemble d'images (ex : un cube sous une forme spécifique ou
+  une série de nombres) avec une case vide ; 4 choix seront disponibles pour une seule réponse.
+  Le but étant donc de choisir la suite de cette série.
 
-* *Rally* : 2 routes/2 joueurs ; chaque joueur est en posséssion d'une voiture, les deux véhicules roulent de plus en plus vite, le but des deux joueurs est d'éviter le plus d'obstacle possible. Les joueurs pourront utiliser les touches "fléches Droite/gauche" afin de pouvoir éviter les obstacles.
+* *Rally* : 2 routes/2 joueurs ; chaque joueur est en possession d'une voiture, les deux véhicules roulent de plus en plus vite, le but des deux joueurs est donc d'éviter le plus d'obstacle possible. Les joueurs pourront utiliser les touches "flèches Droite/gauche" afin de pouvoir éviter les obstacles.
 
 * *Lutte* :  ici, les deux joueurs devront éjecter le joueur adverse hors de sa zone, ils devront spammer le touche "espace" le plus vite possible.
 
-* *Compteur aveugle* : Un compteur de 10.00 s se lancera, il restera visible jusqu'a 2.50 s puis continuera indéfiniment, jusqu'à ce que les deux joueurs pressent la touche "espace". Le but, ici, est d'estimer le plus précisément lorsque le compteur arrive à 10.00 s, les deux joueurs devront donc appuyer sur la touche "espace", le joueur étant le plus proche de 10.00 s remporte la partie.
+* *Compteur aveugle* : Un compteur de 10.00 s se lancera, il restera visible jusqu'a 2.50 s puis continuera indéfiniment, jusqu'à ce que les deux joueurs pressent la touche "espace".
+* Le but, ici, est d'estimer le plus précisément lorsque le compteur arrive à 10.00 s, les deux joueurs devront donc appuyer sur la touche "espace", le joueur étant le plus proche de 10.00 s remporte la partie.
 
-* *Les Nageurs* :
+* *Les Nageurs* : 2 lignes de nage, 2 nageurs. Ils devront nager le plus vite possible (cf en spamant la barre "espace") afin d'arriver le plus vite en face !
+
+  
 </details>
 
 <details>
